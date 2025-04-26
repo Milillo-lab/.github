@@ -7,12 +7,9 @@ Led by Prof. Pietro Milillo, METAL develops and applies innovative techniques le
 🌍 Natural Hazard Assessment
 🏛 Infrastructure Resilience
 🌡 Climate-Driven Land Surface Change
-🤝 Collaboration & Vision
-METAL fosters interdisciplinary collaboration across academia, government, and industry, with a strong commitment to:
 
-Actionable Science
-Open Access Data
-Training Future Generations of Earth Scientists and Engineers
+##🤝 Collaboration & Vision
+METAL fosters interdisciplinary collaboration across academia, government, and industry, with a strong commitment to Actionable Science, Open Access Data, Training Future Generations of Earth Scientists and Engineers
 <!--📚 Related Project:
 The Milillo’s Earth Technology and Analytics Lab (METAL) is a cutting-edge research group at the University of Houston focused on advancing the understanding of Earth's dynamic systems through state-of-the-art remote sensing, geospatial analytics, and machine learning. Led by Prof. Pietro Milillo, METAL develops and applies innovative techniques using Synthetic Aperture Radar (SAR), optical imagery, LiDAR, and topographic data to address critical challenges in environmental monitoring, natural hazard assessment, infrastructure resilience, and climate-driven land surface changes.
 
