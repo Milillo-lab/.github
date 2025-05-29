@@ -1,4 +1,4 @@
-## 🌎 About METAL
+## 🌎 About RISE
 The Remote Sensing Innovation for a Sustainable Environment (RISE) Lab. is a research group at the University of Houston, Texas, advancing the understanding of Earth's dynamic systems through remote sensing, geospatial analytics, and machine learning.
 
 Led by Prof. Pietro Milillo, RISE develops and applies innovative techniques leveraging: Synthetic Aperture Radar (SAR), Optical Imagery, LiDAR, Topographic Data, to address critical challenges in:
